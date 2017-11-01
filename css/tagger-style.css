@@ -1,0 +1,18 @@
+strong.sub{
+	margin-bottom: 15px;
+	float: left;
+	width: 100%;
+}
+
+div.campos {
+	padding: 20px;
+	display: block;
+	background-color: #e4e4e4;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+pre.resultado{
+	margin-top: 10px;
+	display: none;
+}
